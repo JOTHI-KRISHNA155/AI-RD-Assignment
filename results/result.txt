@@ -1,0 +1,8 @@
+Parameter Estimation Results
+===================================
+
+Theta : 30.000365 degrees
+M     : 0.030000
+X     : 55.000586
+
+Final L1 Loss : 29.080674
